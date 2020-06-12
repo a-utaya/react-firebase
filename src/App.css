@@ -1,0 +1,12 @@
+.title {
+  margin: auto;
+}
+
+li {
+  list-style: none;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
